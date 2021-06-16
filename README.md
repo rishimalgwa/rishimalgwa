@@ -62,6 +62,7 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&hide_border=true&theme=radical">
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian)](https://git.io/streak-stats)
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

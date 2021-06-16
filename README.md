@@ -1,4 +1,4 @@
-[![Header](https://source.unsplash.com/700x200/?coding)](https://source.unsplash.com/1600x900/?coding)
+[![Header](https://source.unsplash.com/720x200/?coding)](https://source.unsplash.com/1600x900/?coding)
 
   <h1 align="center"><b>Nice to Meet you, I am Rishi malgwa</b></h1>
 </p>
@@ -23,7 +23,7 @@
 - 👩‍💻 Intrested in Machin learning and Blockchain
 - 📝 I love to convert ideas into reality
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+<br>
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -46,7 +46,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 <!-- wi*quL3fcV -->
-
+<br>
 <br>
 <br>
 <br>

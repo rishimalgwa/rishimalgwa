@@ -58,9 +58,9 @@
 </p>
 
 <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian)]
 <p align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian)](https://git.io/streak-stats)
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&hide_border=true&theme=radical">
 </p>
 

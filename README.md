@@ -14,7 +14,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-### I am an Android and flutter developer
+### I am an Android and Flutter Developer
 - 👨‍🎓 I’m a first year student pursuing bachelor's 😊
 - 👦 I’m currently working as a flutter developer :grin:
 - 🌱 I’m currently learning Node.js.

@@ -59,7 +59,7 @@
 
 <br>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&hide_border=true&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&theme=onedark">
 </p>
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian">

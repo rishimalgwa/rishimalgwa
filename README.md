@@ -1,4 +1,4 @@
-[![Header](https://source.unsplash.com/720x200/?coding)](https://source.unsplash.com/1600x900/?coding)
+[![Header](https://source.unsplash.com/800x200/?coding)](https://source.unsplash.com/800x200/?coding)
 
   <h1 align="center"><b>Nice to Meet you, I am Rishi malgwa</b></h1>
 </p>
@@ -24,6 +24,7 @@
 - 📝 I love to convert ideas into reality
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 <br>
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)

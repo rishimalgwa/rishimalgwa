@@ -54,17 +54,18 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishimalgwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishimalgwa&theme=onedark&show_icons=true" alt="Rishi's Github Stats">
 </p>
 
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian)
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimalgwa&show_icons=true&hide_border=true&theme=onedark">
 </p>
-
-
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rishimalgwa&theme=monokai-metallian">
+</p>
 <div align="center">
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 

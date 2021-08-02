@@ -1,6 +1,6 @@
 [![Header](https://source.unsplash.com/800x200/?coding)](https://source.unsplash.com/800x200/?coding)
 
-  <h1 align="center"><b>Nice to Meet you, I am Rishi malgwa</b></h1>
+  <h1 align="center"><b>Nice to Meet you, I am Rishi Malgwa</b></h1>
 </p>
 
 <p align="center">

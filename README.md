@@ -21,7 +21,7 @@
 - 👬 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 👩‍💻 Intrested in Machine learning and Blockchain
-- 📝 I love to convert ideas into reality
+- 📝 I love to convert ideas into reality 
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 <br>
 

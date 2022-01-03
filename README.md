@@ -3,7 +3,7 @@
   <h1 align="center"><b>Nice to Meet you, I am Rishi Malgwa</b></h1>
 </p>
 
-<p align="center">
+<p align="center"> 
 <br>
 <a href="https://stackoverflow.com/users/13266370/rishi-malgwa"><img src="https://img.shields.io/badge/stackoverflow-%231877F0.svg?color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/rishimalgwa"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;

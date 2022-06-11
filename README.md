@@ -17,7 +17,7 @@
 ### I am an Android and Flutter Developer
 - 👨‍🎓 I’m a second year student pursuing bachelor's 😊
 - 👦 I’m currently working as a flutter developer :grin:
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning GoLang.
 - 👬 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 👩‍💻 Intrested in Machine learning and Blockchain

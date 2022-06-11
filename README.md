@@ -29,6 +29,7 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![GO](https://img.shields.io/badge/-GO-000000?style=flat&logo=GO)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)

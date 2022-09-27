@@ -49,6 +49,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 <!-- wi*quL3fcV -->
+**Hoplin badge board**
+
+[![@rishimalgwa's Holopin board](https://holopin.io/api/user/board?user=rishimalgwa)](https://holopin.io/@rishimalgwa)
+
 <br>
 <br>
 <br>

@@ -14,12 +14,12 @@
 
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-### I am an Android and Flutter Developer
+### I am a Golang and Flutter developer.
 - 👨‍🎓 I’m a third year student pursuing bachelor's 😊
-- 👦 I’m currently working as a flutter developer :grin:
-- 🌱 I’m currently exploring GoLang.
+- 👦 I’m currently working as a Golang developer :grin:
+- 🌱 I’m currently exploring Rust.
 - 👬 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 👩‍💻 Intrested in Machine learning and Blockchain
 - 📝 I love to convert ideas into reality
 - ⚡ Fun fact: I love connecting with different people :raised_hands:

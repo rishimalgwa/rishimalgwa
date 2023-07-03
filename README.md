@@ -15,14 +15,14 @@
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 ### I am a Golang and Flutter developer.
-- 👨‍🎓 I’m a third year student pursuing bachelor's 😊
-- 👦 I’m currently working as a Golang developer :grin:
-- 🌱 I’m currently exploring Rust.
-- 👬 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
-- 👩‍💻 Intrested in Machine learning and Blockchain
-- 📝 I love to convert ideas into reality
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 👨‍🎓 Pursuing bachelor's degree, eager to learn and grow.
+- 👦 Gaining valuable industry experience in Go.
+- 🌱 Delving into the world of Rust programming.
+- 👬 Open to exciting partnership opportunities.
+- 🥅 Making meaningful contributions to open source.
+- 👩‍💻 Exploring the potential of ML and blockchain technologies.
+- 📝 Passionate about turning concepts into practical applications.
+- ⚡ Enjoying engaging with a diverse range of individuals.
 <br>
 
 **Languages I have used** 

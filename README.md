@@ -15,7 +15,6 @@
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 ### I am a Golang and Flutter developer.
-- 👨‍🎓 Pursuing bachelor's degree, eager to learn and grow.
 - 👦 Gaining valuable industry experience in Go.
 - 🌱 Delving into the world of Rust programming.
 - 👬 Open to exciting partnership opportunities.

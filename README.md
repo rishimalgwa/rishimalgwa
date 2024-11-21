@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/13266370/rishi-malgwa"><img src="https://img.shields.io/badge/stackoverflow-%231877F0.svg?color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/rishimalgwa"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/rishimalgwa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="[https://rishi-portfolio.web.app/#/](https://rishimalgwa.notion.site/Rishi-s-Portfolio-117331b68aaa8079ac44c26820533e6c)"><img src="https://img.shields.io/badge/portfolio-%FF9A00.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://rishimalgwa.notion.site/Rishi-s-Portfolio-117331b68aaa8079ac44c26820533e6c"><img src="https://img.shields.io/badge/portfolio-%FF9A00.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
 </p>
 <br>
 
